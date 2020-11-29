@@ -1,0 +1,7 @@
+bitcoin
+base58
+ecdsa
+blockchain
+python-secrets
+coincurve
+web3
