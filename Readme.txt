@@ -10,11 +10,13 @@ For database files u can contact me.
 As bases de dados no projecto sao apenas para teste.
 Para os ficheiros de bases de dados pode entrar em contacto. 
 
-
+----------------------------------------------------------
+=========================================================
 contact: birdy231990@gmail.com
 
 donate to : 0x59451fEf01912a70C12F9d0ab2576Dfd8fA04211
-
+=========================================================
+----------------------------------------------------------
 
 IF u have your own database files , just rename them to "DB.txt" and put inside IN folder on each type of chain1
 
