@@ -1,7 +1,8 @@
-The project do not contain none of bouth databases.
+The databases contained in the project are just for testing!!
+
 For database files u can contact me.
 
-O projecto nao contem as bases de dados.
+As bases de dados no projecto sao apenas para teste.
 Para os ficheiros de bases de dados pode entrar em contacto. 
 
 
