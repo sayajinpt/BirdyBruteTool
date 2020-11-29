@@ -1,3 +1,8 @@
+to install requirements u need to have python3 installed!!
+
+run in terminal "pip install -r requirements.txt"
+
+
 The databases contained in the project are just for testing!!
 
 For database files u can contact me.
